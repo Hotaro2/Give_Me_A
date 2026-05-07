@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0512ac90039114a4aae3611fb69e4778
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boss_Graphic_Light_Prefab: {fileID: 3842146197896303360, guid: bffdd7166c6b350428a977336f63128a, type: 3}
+  - boss_Graphic_BigLight_Prefab: {fileID: 3860659977882733051, guid: 0c93a8a3f12ca92468924675b79d3cea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

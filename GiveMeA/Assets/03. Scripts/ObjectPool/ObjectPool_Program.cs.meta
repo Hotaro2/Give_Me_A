@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 967eaa0d27b57a643b753ceb1a3088f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boss_Program_CodeGameobject_Prefab: {fileID: 972625733788326304, guid: 6527c98d1ef15e44abfad1992a2e7ba3, type: 3}
+  - boss_Program_CodeAddforce_Prefab: {fileID: 972625733788326304, guid: 7f84e2a0c23ce164c84bd86a3b0d598a, type: 3}
+  - boss_Program_CodeRevers_Prefab: {fileID: 972625733788326304, guid: f8aa7f367334f4c4bbcab7c5ad65fe33, type: 3}
+  - boss_Program_CodeGravity_Prefab: {fileID: 972625733788326304, guid: de08aeab850c8a6468b65e4a5fe94d6a, type: 3}
+  - boss_Program_CodeSummon_Prefab: {fileID: 5525211193249860294, guid: 4be63e56f5f8bd84bae704c75c5fa762, type: 3}
+  - boss_Program_Summoner_Prefab: {fileID: 366090106262526150, guid: 0ecc5283b8170c245abcf7aa76680294, type: 3}
+  - boss_Program_GravityArea_Prefab: {fileID: 972641981082003672, guid: be0fa1047ba50874a92b3ba9c29ae03c, type: 3}
+  - boss_Program_Ball_Prefab: {fileID: 3508248878566739883, guid: 5351455634196364b95b623986858ede, type: 3}
+  - boss_Program_Cube_Prefab: {fileID: 3517088086617176872, guid: b142eb35e0ba7c9439b2cac45bb145a1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

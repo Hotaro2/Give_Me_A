@@ -1,0 +1,4 @@
+repository "GiveMeA@lbm1018@cloud"
+  path "/"
+    br "/main"
+    co "/main"
